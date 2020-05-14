@@ -375,6 +375,7 @@ Engines, libraries and other helpful things specifically for making games.
 
 * [Allegro][48] - Cross-platform, video game development and multimedia
   library. [``Zlib``][Zlib]
+* [AVA][568] - A tiny unlicensed 3D game engine in C; with C++ and Lua interfaces. Written in 32 random ̷d̷a̷y̷s̷ m̷o̷n̷t̷h̷s̷ years.[```Unlicense/Public Domain```] [Unlicense]
 * [cglm][542] - 📽 Optimized OpenGL/Graphics Math (glm) for C. [``MIT``][MIT]
 * [Chipmunk2D][303] - Fast and lightweight 2D game physics library. [``MIT``][MIT]
 * [Corange][101] - Game engine in pure C. [``BSD-2-Clause``][BSD-2-Clause]
@@ -449,8 +450,11 @@ Graphical User Interface section has what you need.
 Widget toolkits, or things meant to be used in a similar way to them.
 
 * [GTK+][14] - Cross-platform widget toolkit. [``LGPL-2.1-only``][LGPL-2.1-only]
+* [GUIslice][569] - A lightweight GUI framework for embedded displays. [``MIT``][MIT]
 * [IUP][16] - Another cross-platform widget toolkit. [``MIT``][MIT]
+* [LittleVGL][570] - Powerful and easy-to-use embedded GUI with many widgets, advanced visual effects (opacity, antialiasing, animations) and low memory requirements (16K RAM, 64K Flash). [``MIT``][MIT]
 * [nuklear][408] - Small, C89, single-header widget toolkit. Public domain.
+* [rayGUI][567] - raygui is a simple and easy-to-use immediate-mode-gui library. [``Zlib``][Zlib]
 * [tinyfiledialogs][426] - Single-file library for simple dialogs. Compatible
   with many other toolkits and OSes. [``Zlib``][Zlib]
 * [Tk][19] - Basic widget toolkit. Part of Tcl/Tk. [``TCL``][TCL]
@@ -1688,3 +1692,7 @@ support for C.
 [564]: https://github.com/ithewei/libhv
 [565]: https://github.com/sakhmatd/rogueutil
 [566]: https://github.com/the-tcpdump-group/libpcap
+[567]: https://github.com/raysan5/raygui
+[568]: https://github.com/r-lyeh/AVA
+[569]: https://github.com/ImpulseAdventure/GUIslice
+[570]: https://github.com/littlevgl/lvgl
