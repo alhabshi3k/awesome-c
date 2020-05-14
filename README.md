@@ -303,6 +303,7 @@ work.
 * [CBMC][309] - C Bounded Model Checker; a tool for verification of array
   bounds, pointer safety and user-specified assertions.
   [``BSD-4-Clause``][BSD-4-Clause]
+* [Checked C][571] -  is an extension to C that adds checking to detect or prevent common programming errors such as buffer overruns and out-of-bounds memory accesses. developed by Microsoft. [``MIT``][MIT]
 * [cflow][404] - Analyzes a collection of source files and prints a graph
   charting control flow in the program. [``GPL-3.0-or-later``][GPL-3.0-or-later]
 * [Complexity][307] - Tool for measuring the complexity of source
@@ -1696,3 +1697,4 @@ support for C.
 [568]: https://github.com/r-lyeh/AVA
 [569]: https://github.com/ImpulseAdventure/GUIslice
 [570]: https://github.com/littlevgl/lvgl
+[571]: https://github.com/Microsoft/checkedc
